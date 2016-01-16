@@ -7,9 +7,16 @@ The file index.html contains a stand alone instance that can also be adapted to 
 
 
 
-## Building
+## Building and other libraries
 
-We are using bootstrap-3.3.6, which is in the dist directory.
+We use
+
+ * https://github.com/davidshimjs/qrcodejs for generating QR codes
+
+
+
+
+
 
 
 
